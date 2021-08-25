@@ -274,6 +274,12 @@
   align-items: center;
 }
 
+.foto-tag {
+  margin-top: 12px;
+  color: #b4b4b4;
+  font-size: 14px;
+}
+
 @media screen and (max-width: 991px) {
   .l-container {
     max-width: 760px;
